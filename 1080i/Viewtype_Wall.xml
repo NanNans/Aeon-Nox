@@ -199,7 +199,7 @@
                     <height>161</height>
                     <aspectratio align="center">stretch</aspectratio>
                     <texture>common/bgcolor.png</texture>
-                    <animation effect="fade" start="100" end="50" time="40" condition="true">Conditional</animation>
+                    <animation effect="fade" start="100" end="0" time="40" condition="true">Conditional</animation>
                     <bordersize>5</bordersize>
                 </control>
             </control>
