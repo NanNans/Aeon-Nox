@@ -223,6 +223,7 @@
                                     <width>285</width>
                                     <height>161</height>
                                     <aspectratio scalediffuse="false">scale</aspectratio>
+                                    <aspectratio scalediffuse="false">stretch</aspectratio>
                                     <texture background="true">$INFO[ListItem.Icon]</texture>
                                     <bordertexture border="5">thumbs/bordershadow4.png</bordertexture>
                                     <bordersize>5</bordersize>
@@ -245,6 +246,7 @@
                                     <label fallback="..">$INFO[ListItem.Season,$LOCALIZE[20359] ]$INFO[ListItem.Episode,.]</label>
                                     <font>Font_Info</font>
                                     <textcolor>grey2</textcolor>
+                                    <label fallback="..">$INFO[ListItem.Label]</label>
                                 </control>
                             </control>
                             <control type="image">
