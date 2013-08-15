@@ -113,7 +113,7 @@
                         <height>104</height>
                         <aspectratio scalediffuse="false">scale</aspectratio>
                         <texture diffuse="thumbs/banner_mask.png">common/bgcolor.png</texture>
-                        <animation effect="fade" start="100" end="50" time="40" condition="true">Conditional</animation>
+                        <animation effect="fade" start="100" end="0" time="40" condition="true">Conditional</animation>
                     </control>
                 </itemlayout>
                 <focusedlayout width="562" height="120" condition="!Skin.HasSetting(AltBannerPlex)">
