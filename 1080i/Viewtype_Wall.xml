@@ -162,7 +162,7 @@
                 <control type="image">
                     <width>831</width>
                     <height>161</height>
-                    <aspectratio align="center">scale</aspectratio>
+                    <aspectratio align="center">stretch</aspectratio>
                     <texture background="true">$VAR[BannerVar]</texture>
                     <bordersize>5</bordersize>
                 </control>
@@ -217,7 +217,7 @@
                 <control type="image">
                     <width>831</width>
                     <height>161</height>
-                    <aspectratio align="center">scale</aspectratio>
+                    <aspectratio align="center">stretch</aspectratio>
                     <texture background="true">$VAR[BannerVar]</texture>
                     <bordersize>5</bordersize>
                 </control>
