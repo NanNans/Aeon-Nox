@@ -301,8 +301,8 @@
                                     <height>51</height>
                                     <textoffsetx>5</textoffsetx>
                                     <align>center</align>
-                                    <label fallback="..">$INFO[ListItem.Season,$LOCALIZE[20359] ]$INFO[ListItem.Episode,.]</label>
                                     <font>Font_Info</font>
+                                    <label fallback="..">$INFO[ListItem.Label]</label>
                                 </control>
                             </control>
                             <control type="image">
